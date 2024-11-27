@@ -87,5 +87,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: moving platform - wide
       objectReference: {fileID: 0}
+    - target: {fileID: 7529110507225130017, guid: e0a15e7f6d563764085e6ae65429d0ac,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: -4
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e0a15e7f6d563764085e6ae65429d0ac, type: 3}
